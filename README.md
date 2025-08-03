@@ -23,7 +23,7 @@ Enables tracking of how different diseases are spreading across states, how time
 
 *2*. Health & Population Correlation
 -
-Dashboard=
+Dashboard=https://github.com/prachikarsrung/Product_market_fit/blob/main/Health%20%26%20Population%20correlation.png
 Key Metrics:
 
 •Disease frequency breakdown

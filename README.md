@@ -3,8 +3,7 @@
 ## 🔍 Dashboard Overview##
 *1*. Disease Surveillance
 -
-Dashboard=https://github.com/prachikarsrung/Product_market_fit/blob/main/Disease%20surveillance.png
-
+Dashboard=https://github.com/prachikarsrung/Product_market_fit/blob/main/Disease_surveillance.png
 Key Metrics:
 
 •Average number of cases
@@ -24,7 +23,7 @@ Enables tracking of how different diseases are spreading across states, how time
 
 *2*. Health & Population Correlation
 -
-Dashboard=https://github.com/prachikarsrung/Product_market_fit/blob/main/Health%20%26%20population%20correlation.png
+Dashboard=
 Key Metrics:
 
 •Disease frequency breakdown
